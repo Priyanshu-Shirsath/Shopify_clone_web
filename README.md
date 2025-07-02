@@ -11,10 +11,9 @@ A fully responsive **Shopify-inspired e-commerce frontend** built using **React.
 
 | 🖥️ Homepage | 🛍️ Product Page | 🛒 Cart Page |
 |------------|----------------|--------------|
-| ![Home](![Screenshot 2025-07-02 172200](https://github.com/user-attachments/assets/d997137d-6bab-4ce4-b701-f62b637668ca)
-) | ![Product](![Screenshot 2025-07-02 172231](https://github.com/user-attachments/assets/e85819d7-c459-438e-a27d-10c2ad2eea25)
-) | ![Cart](![Screenshot 2025-07-02 172332](https://github.com/user-attachments/assets/ba482b36-9100-4a2d-8112-08cc271f2bf4)
-) |
+| ![Home](![Screenshot 2025-07-02 172200](https://github.com/user-attachments/assets/d997137d-6bab-4ce4-b701-f62b637668ca)) 
+| ![Product](![Screenshot 2025-07-02 172231](https://github.com/user-attachments/assets/e85819d7-c459-438e-a27d-10c2ad2eea25)) 
+| ![Cart](![Screenshot 2025-07-02 172332](https://github.com/user-attachments/assets/ba482b36-9100-4a2d-8112-08cc271f2bf4)) 
 
 ---
 
